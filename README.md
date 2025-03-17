@@ -1,3 +1,9 @@
+<div align="center">
+	<img src="welcome-header.gif" alt="welcome to my github profile">
+	<br>
+	<br>
+</div>
+
 ## Hi there 👋
 
 Dynamic and results-oriented Senior Full Stack Developer with 8 years of experience in designing and implementing scalable web applications. Proficient in both front-end and back-end technologies, with a strong focus on enhancing user experience and optimizing performance.
